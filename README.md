@@ -1,6 +1,6 @@
 # 🚀 Meli + Ada: Lógica de Programación en Java
 
-Repositorio con el desarrollo de clases, retos y examen final del módulo de Lógica de Programación del bootcamp de **MercadoLibre & Ada (2026)**.
+Repositorio con el desarrollo de clases, retos y examen final del módulo de Lógica de Programación en **MercadoLibre & Ada (2026)**.
 
 ## 📂 Estructura del Repositorio
 * **clase1_helloworld/**: Primeros pasos e impresión en consola.
@@ -14,4 +14,4 @@ Repositorio con el desarrollo de clases, retos y examen final del módulo de Ló
 * **examenjava_jhonatan_osorio/**: Evaluación final.
 
 ---
-✨ Desarrollado con 💻 por **Jhonatan :D**.
+✨ Desarrollado por **Jhonatan :D**.
